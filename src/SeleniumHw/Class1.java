@@ -1,9 +1,9 @@
-package seleniumHw;
+package SeleniumHw;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class class1 {
+public class Class1 {
     public static void main(String[] args) {
 
         System.setProperty("webdriver.chrome.driver", "Driver/chromedriver_mac64/chromedriver");
